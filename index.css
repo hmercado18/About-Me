@@ -12,3 +12,8 @@ p {
   font-size: 20px;
   color: white;
 }
+
+.headshot {
+  max-width: 50%;
+  height: max-content;
+}
